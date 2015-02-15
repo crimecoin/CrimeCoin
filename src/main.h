@@ -37,7 +37,7 @@ static const int64 MAX_MONEY = 4000000 * COIN;			// 4 Million
 static const int64 CIRCULATION_MONEY = MAX_MONEY;
 static const double TAX_PERCENTAGE = 0.00; //no tax
 static const int64 MAX_CLOAK_PROOF_OF_STAKE = 0.05 * COIN;	// 5% annual interest
-static const int CUTOFF_POW_BLOCK = 4000;
+static const int CUTOFF_POW_BLOCK = 26000;
 
 static const int64 MIN_TXOUT_AMOUNT = MIN_TX_FEE;
 
